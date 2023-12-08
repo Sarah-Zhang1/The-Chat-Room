@@ -32,7 +32,7 @@ Creates a realtime chat room, where people can connect to a server. They can mes
 
 * Clone the project into you're desired code editor (ex. VS Code) 
 
-* Open in code editor, the project. Then, open the terminal (make sure in the terminal, the path to where the project is) 
+* In code editor, open the project. Then, open the terminal (make sure in the terminal, the path to where the project is) 
 
 * Run in terminal: 
 
