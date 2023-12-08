@@ -40,5 +40,10 @@ Creates a realtime chat room, where people can connect to a server. They can mes
 
     `npm run dev`
 
-* Run http://localhost:2000 on your browser
+* To run it so that you can message with people on different computers:
+   * Run: http://ip:2000 on your browser
+      * ip you should put the ip address of your wifi (ex. http://10.110.197.89:2000)
+     
+* To run locally without getting messages from people on different computers: 
+   * Run http://localhost:2000 on your browser
 
